@@ -184,7 +184,7 @@
       <dependency>
         <groupId>junit</groupId>
         <artifactId>junit-dep</artifactId>
-        <version>5.10.0</version>
+        <version>5.10.2</version>
         <scope>test</scope>
       </dependency>
 
